@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">少女前线辅助</string>
+    <string name="edit_message">选择梯队（请输入数字）</string>
+    <string name="anjian">选择</string>
+    <string name="zhuanhuan">无敌</string>
+    <string name="zhuanhuan2">秒杀</string>
+    <string name="todo">TODO</string>
+    <string name="miao">瞄准Log</string>
+    <string name="zhizun">至尊奢华版</string>
+    <string name="account">账号</string>
+    <string name="password">密码</string>
+    <string name="Internet">进入官网</string>
+    <string name="loginin">请登录</string>
+    <string name="login">登录</string>
+    <string name="ZAFT">ZAFT</string>
+    <string name="returnChina">返回</string>
+    <string name="queding">确定</string>
+    <string name="recycle_button">咕噜咕噜</string>
+</resources>
